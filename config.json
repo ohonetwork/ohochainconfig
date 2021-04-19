@@ -1,0 +1,56 @@
+{
+  "chains": [
+     {
+      "id": "c4f384017eb2edefec35697dd6e06301d42b534c67fed743589224e40adb1309",
+      "symbol": "HTZ",
+      "icon": "oho.png",
+      "precision": 4,
+      "name": "HTZ MAINNET",
+      "network": "MAINNET",
+      "firstApi": "http://161.97.136.164:5551",
+      "historyApi": "",
+      "hyperionApis": [
+      ],
+      "forumTally": "",
+      "eosrioBP": "",
+      "proxyRegistry": "",
+      "lastNode": "http://161.97.136.164:5551",
+      "logoSrc": "",
+      "backdrop": "",
+      "features": {
+        "history": true,
+        "send": true,
+        "resource": true,
+        "vote": true,
+        "staking": true,
+        "dapps": true,
+        "addAcc": true,
+        "newAcc": true,
+        "forum": false,
+        "rex": false
+      },
+      "system": [
+        "eosio",
+        "eosio.token",
+        "eosio.msig",
+        "eosio.forum"
+      ],
+      "endpoints": [
+        {
+          "url": "http://161.97.136.164:5551",
+          "owner": "HTZ network",
+          "latency": 492
+        },
+        {
+          "url": "http://161.97.136.160:5551",
+          "owner": "HTZ network",
+          "latency": 492
+        }
+      ],
+      "explorers": [
+      ],
+      "exchanges": {
+      }
+    }
+  ]
+}
