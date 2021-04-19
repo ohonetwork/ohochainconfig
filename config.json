@@ -2,10 +2,10 @@
   "chains": [
      {
       "id": "c4f384017eb2edefec35697dd6e06301d42b534c67fed743589224e40adb1309",
-      "symbol": "HTZ",
+      "symbol": "OHO",
       "icon": "oho.png",
       "precision": 4,
-      "name": "HTZ MAINNET",
+      "name": "OHO MAINNET",
       "network": "MAINNET",
       "firstApi": "http://161.97.136.164:5551",
       "historyApi": "",
@@ -38,12 +38,12 @@
       "endpoints": [
         {
           "url": "http://161.97.136.164:5551",
-          "owner": "HTZ network",
+          "owner": "OHO network",
           "latency": 492
         },
         {
           "url": "http://161.97.136.160:5551",
-          "owner": "HTZ network",
+          "owner": "OHO network",
           "latency": 492
         }
       ],
